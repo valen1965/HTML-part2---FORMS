@@ -1,0 +1,20 @@
+/* 
+
+CSS Frameworks
+===============
+--Millligram
+
+In this project wea are going to use Milligram Framework
+for it speed and productivity
+
+Various HTML input element can be found on web
+
+*/
+
+form {
+    width: 50%;
+    padding: 2rem;
+}
+textarea {
+    resize: none;
+}
